@@ -1,5 +1,5 @@
 {
-  "name": "kminek/open-subtitles",
+  "name": "pecee/opensubtitles-php-sdk",
   "type": "library",
   "description": "Simple, lightweight PHP-SDK for accessing subtitles from OpenSubtitles.org",
   "keywords": [
